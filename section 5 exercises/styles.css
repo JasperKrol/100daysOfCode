@@ -1,0 +1,16 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rebeccapurple;
+}
+
+header {
+    text-align: center;
+    margin: 24px auto;
+}
+
+img {
+    width: 200px;
+}
