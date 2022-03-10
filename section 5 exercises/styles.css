@@ -8,9 +8,37 @@ body {
 
 header {
     text-align: center;
-    margin: 24px auto;
+    padding: 32px;
 }
 
-img {
+header img {
     width: 200px;
+}
+
+main {
+    background-color: antiquewhite;
+    border: 4px black solid;
+    border-radius: 5px;
+    padding: 32px;
+    margin: 32px auto;
+}
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    margin: 14px 0px;
+    padding-left: 10px;
+    border-left: 5px solid transparent;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    background-color: orange;
+    padding: 4px;
+    border-radius: 4px;
 }
