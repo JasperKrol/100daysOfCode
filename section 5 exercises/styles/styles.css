@@ -21,6 +21,7 @@ main {
     border-radius: 5px;
     padding: 32px;
     margin: 32px auto;
+    width: 700px;
 }
 
 ul {
@@ -48,8 +49,13 @@ a:active {
     background-color: rgb(250, 201, 39);
 }
 
-footer  {
+footer {
     text-align: center;
+}
+
+footer a {
+    padding: 12px 20px;
+    border-radius: 8px;
 }
 
 .extra-important {
