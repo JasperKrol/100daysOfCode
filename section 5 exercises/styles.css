@@ -42,3 +42,18 @@ a {
     padding: 4px;
     border-radius: 4px;
 }
+
+a:hover,
+a:active {
+    background-color: rgb(250, 201, 39);
+}
+
+footer  {
+    text-align: center;
+}
+
+.extra-important {
+    color: orange;
+    border-color: rgb(247, 209, 85);
+}
+
