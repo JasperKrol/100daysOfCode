@@ -53,13 +53,18 @@ footer {
     text-align: center;
 }
 
-footer a {
+.extra-important {
+    color: orange;
+    border-color: rgb(247, 209, 85);
+}
+
+.button {
     padding: 12px 20px;
     border-radius: 8px;
 }
 
-.extra-important {
-    color: orange;
-    border-color: rgb(247, 209, 85);
+.button:hover,
+.button:active {
+    background-color: orangered;
 }
 
